@@ -1,4 +1,4 @@
-# Fan controlled by DHT11 sensor and arduino
+# Smart home appliance{smart fan}
 This project demonstrate the use of DHT11 sensor and arduino to control a fan or AC automatically.
 # components and tools
 - Arduino UNO
